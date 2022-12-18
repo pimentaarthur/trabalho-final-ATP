@@ -1,0 +1,15 @@
+C:\Users\tupim\Desktop\trabalho ATP\bin\Debug\net6.0\trabalho ATP.exe
+C:\Users\tupim\Desktop\trabalho ATP\bin\Debug\net6.0\trabalho ATP.deps.json
+C:\Users\tupim\Desktop\trabalho ATP\bin\Debug\net6.0\trabalho ATP.runtimeconfig.json
+C:\Users\tupim\Desktop\trabalho ATP\bin\Debug\net6.0\trabalho ATP.dll
+C:\Users\tupim\Desktop\trabalho ATP\bin\Debug\net6.0\trabalho ATP.pdb
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.csproj.AssemblyReference.cache
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.AssemblyInfoInputs.cache
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.AssemblyInfo.cs
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.csproj.CoreCompileInputs.cache
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.dll
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\refint\trabalho ATP.dll
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.pdb
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\trabalho ATP.genruntimeconfig.cache
+C:\Users\tupim\Desktop\trabalho ATP\obj\Debug\net6.0\ref\trabalho ATP.dll
